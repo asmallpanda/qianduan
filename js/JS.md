@@ -5,7 +5,7 @@ JavaScript
     文档对象模型（DOM）：DOM把整个HTML页面规划为元素构成的文档
     浏览器对象模型（BOM）：对浏览器窗口进行访问和操作
 2.JS有哪些内置对象？
-    String Boolean Number Array Object Funtion Math Date RegExp...
+    String Boolean Number Array Object Function Math Date RegExp...
     Math
         abs()   sqrt()  max()   min()
     Date
